@@ -31,7 +31,7 @@ width="50"> , I'm Federico Albornoz</h1>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elFedaEZ&theme=dark" alt="elFedaEZ" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/federicoalbornoz98" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anirudh-rai-072732220" height="30" /></a> 
 <a href="mailto:albornozfederico98@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="anirudh-rai-072732220" height="30" /></a>
